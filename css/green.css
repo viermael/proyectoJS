@@ -1,0 +1,40 @@
+body{
+	background: url('../img/hojas2.jpg');
+	background-size: 100%;
+	}	
+
+#logo{
+	background: #235e3d;	
+}
+
+#menu{
+	background: #57996d ;
+}
+
+#menu ul li:hover{
+	background: #235e3d;
+}
+
+.post h2{
+	color: #57996d;
+}
+
+.button-more{
+	background: #57996d;	
+}
+
+.button-more:hover,
+ form input[type="submit"]:hover{
+	background: #235e3d;
+}
+
+#sidebar h4 span{
+	background: whitesmoke;
+}
+
+ form input[type="submit"]{
+	
+	background: #57996d;
+	color: white;
+	
+}

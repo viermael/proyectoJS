@@ -1,0 +1,40 @@
+body{
+	background: url('../img/rojo.jpg');
+	background-size: 100%;
+	}
+
+#logo{
+	background: #CA3413;	
+}
+
+#menu{
+	background: #e13a15 ;
+}
+
+#menu ul li:hover{
+	background: #CA3413;
+}
+
+.post h2{
+	color: #e13a15;
+}
+
+.button-more{
+	background: #e13a15;	
+}
+
+.button-more:hover,
+ form input[type="submit"]:hover{
+	background: #CA3413;
+}
+
+#sidebar h4 span{
+	background: whitesmoke;
+}
+
+ form input[type="submit"]{
+	
+	background: #e13a15;
+	color: white;
+	
+}
